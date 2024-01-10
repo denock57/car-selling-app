@@ -2,6 +2,9 @@
 # Car Selling Web Application
 
 This web application allows users to buy and sell cars. It includes features such as user authentication, a contact form, and responsive design.
+![Screenshot (167)](https://github.com/denock57/car-selling-app/assets/145377931/8cdf6056-85f1-4435-a65e-38160aae9426)
+![Screenshot (168)](https://github.com/denock57/car-selling-app/assets/145377931/3548b403-125f-49ef-b6d8-a9a71de19a73)
+![Screenshot (169)](https://github.com/denock57/car-selling-app/assets/145377931/b75df1b0-1d06-47ed-99aa-f91c9a732144)
 
 ## Backend (Node.js and Express)
 
