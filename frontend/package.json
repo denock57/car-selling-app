@@ -1,0 +1,11 @@
+{
+    "name": "car-selling-app-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for Car Selling App",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server"
+    },
+    "dependencies": {}
+  }
+  
